@@ -377,7 +377,7 @@ canvas {
     <div class="row">
     <section>
             <div class="wizard" >
-                <h1 id="ttf">Application Form</h1><a href="view_data.php" ><span class=" btn btn-lg btn-success glyphicon glyphicon-eye-open" style="float: right;" aria-hidden="true"></span> </a>
+                <h1 id="ttf">Application Form123456</h1><a href="view_data.php" ><span class=" btn btn-lg btn-success glyphicon glyphicon-eye-open" style="float: right;" aria-hidden="true"></span> </a>
        <?php include("form.php"); ?>
     </div>
 </div>
