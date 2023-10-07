@@ -102,7 +102,7 @@ canvas {
      
         <div class="container wizard"> 
         <div >
-            <h2 style="text-align: center;" id="ttf">Application Form </h2><a href="index.php" ><span class=" btn btn-lg btn-primary glyphicon glyphicon-pencil" style="float: right;" aria-hidden="true"></span> </a>
+            <h2 style="text-align: center;" id="ttf">Application Form View</h2><a href="index.php" ><span class=" btn btn-lg btn-primary glyphicon glyphicon-pencil" style="float: right;" aria-hidden="true"></span> </a>
         </div>  
             <!-- Table -->
             <table id='empTable' class='display dataTable ' width="100%" >
