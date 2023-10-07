@@ -2,7 +2,7 @@
 <?php 
 $row=mysqli_fetch_assoc(mysqli_query($conn,"SELECT * FROM info where id='".$_GET['id']."'"));
 $data=$row['ssc_exam'];
-
+$date=date('d-y-m');
 ?>
 
                 <div class="wizard-inner">
